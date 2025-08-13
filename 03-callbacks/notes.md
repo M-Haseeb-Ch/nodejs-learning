@@ -1,6 +1,4 @@
 ## Topic 03
-## Understanding difference between CallBacks, Promises and AsyncAwaits
-
 ## CallBacks
 
 -------------------------------------------------------------------------------------
