@@ -26,4 +26,4 @@ Libuv is a multi-platform C library originally created for Node.js. Its main pur
 
 -------------------------------------------------------------------------------------
 ## What is Node.js?
-Node.js was developed by `Ryan Dahl`. It is an open-source, cross platform runtime JavaScript environment that uses the V8 engine and libuv. It enables JavaScript to run outside the browser in a standalone environment. Before Node.js, JavaScript was primarily a browser-based scripting language.
+Node.js was developed by `Ryan Dahl`. It is an open-source, cross-platform runtime JavaScript environment that uses the V8 engine and libuv. It enables JavaScript to run outside the browser in a standalone environment. Before Node.js, JavaScript was primarily a browser-based scripting language.

@@ -1,6 +1,18 @@
 /**
  * Demonstration of Node.js Callback Hell with separate functions.
  *
+ * Let’s say we have a car that needs servicing.
+ * We need to perform the following tasks in order:
+ *  1. Wash the car
+ *  2. Refill fuel
+ *  3. Check engine oil
+ *  4. Check coolant
+ *  5. Check brake fluid
+ *  6. Inspect battery
+ *  7. Change tyres
+ *  8. Start the car
+ *  9. Test drive the car
+ * 
  * Steps:
  * 1. Navigate into the project folder
  * 2. Run the script:
